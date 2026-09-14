@@ -16,6 +16,10 @@ This file acknowledges notable external contributions and PRs that influenced th
   - Developer tooling, agent docs, and provider-model mapping proposals
   - Related pull requests: [#10](https://github.com/Leonxlnx/claw-dev/pull/10), [#11](https://github.com/Leonxlnx/claw-dev/pull/11)
 
+    # Project Contributors
+
+* Vignesh Madineni ([@Vignesh606](https://github.com/Vignesh606))
+
 ## Note
 
 GitHub's automatic contributor graph is based on commit authors that land on the default branch. This file exists so that contributors still receive visible credit when ideas are integrated through follow-up work, rebases, or superseding fixes.
