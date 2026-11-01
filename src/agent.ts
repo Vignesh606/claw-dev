@@ -1,8 +1,3 @@
-import { AnthropicProvider, GeminiProvider, type LlmProvider, type ProviderName } from "./providers.js";
-
-export type AgentTurnResult = {
-  text: string;
-};
 
 export class CodingAgent {
   private readonly provider: LlmProvider;
